@@ -7,6 +7,9 @@ namespace Projektgg
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Labdien Visiem");
+
+            Console.ReadLine();
         }
     }
 }
