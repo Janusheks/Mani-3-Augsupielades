@@ -17,6 +17,9 @@ namespace Projektgg
 
             Console.WriteLine("Sis ir tresas izmainas programmminaa un ejam majas");
             Console.WriteLine();
+
+            int t = 12;
+            Console.WriteLine("Dalisana ir mans hobijs" + " " + x / x);
         }
     }
 }
