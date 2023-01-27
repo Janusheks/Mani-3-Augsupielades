@@ -6,10 +6,15 @@ namespace Projektgg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
             Console.WriteLine("Labdien Visiem");
 
+            Console.WriteLine("Ievadiet kautko");
             Console.ReadLine();
+
+            int x = 3;
+            Console.WriteLine("Saskaitisu" + " " + x * x);
+
         }
     }
 }
