@@ -15,6 +15,8 @@ namespace Projektgg
             int x = 3;
             Console.WriteLine("Saskaitisu" + " " + x * x);
 
+            Console.WriteLine("Sis ir tresas izmainas programmminaa un ejam majas");
+            Console.WriteLine();
         }
     }
 }
